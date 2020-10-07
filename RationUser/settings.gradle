@@ -1,0 +1,2 @@
+rootProject.name='RationUser'
+include ':app'

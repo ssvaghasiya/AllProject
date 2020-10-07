@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321060572348",
+    "firebase_url": "https://vanda-22dfc.firebaseio.com",
+    "project_id": "vanda-22dfc",
+    "storage_bucket": "vanda-22dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321060572348:android:27c373f056f57feb71d4b9",
+        "android_client_info": {
+          "package_name": "com.example.vanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321060572348-ot5iltlrar513u3g8vtbk61829rrbd5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZSU22F4GRwbOaoDgYTh7Q_TQgeaAAa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321060572348-ot5iltlrar513u3g8vtbk61829rrbd5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

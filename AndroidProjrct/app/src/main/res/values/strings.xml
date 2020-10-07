@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="edit1">Enter First Number</string>
+    <string name="edit2">Enter Second Number</string>
+</resources>

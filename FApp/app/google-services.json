@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159556591729",
+    "firebase_url": "https://fapp-61053.firebaseio.com",
+    "project_id": "fapp-61053",
+    "storage_bucket": "fapp-61053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159556591729:android:675e7df3ee36c555a33bd0",
+        "android_client_info": {
+          "package_name": "com.example.fapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159556591729-v65o7l1omiqqu2oqnsluf8v7u4508bf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsvE4kyzGo_X0y31lQFE3buzyveciElk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159556591729-v65o7l1omiqqu2oqnsluf8v7u4508bf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
